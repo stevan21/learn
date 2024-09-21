@@ -1,0 +1,13 @@
+[27-Nov-2021 15:10:46 UTC] PHP Parse error:  syntax error, unexpected 'idTransaction' (T_STRING), expecting ';' or ',' in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/paiement.php on line 47
+[01-Dec-2021 19:33:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/paiement.php on line 35
+[01-Dec-2021 19:34:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/paiement.php on line 35
+[01-Dec-2021 20:56:47 UTC] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/paiement.php on line 28
+[01-Dec-2021 21:54:01 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/cours-details.php on line 706
+[03-Dec-2021 18:34:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/paiement.php on line 17
+[03-Dec-2021 19:00:29 UTC] PHP Parse error:  syntax error, unexpected 'const' (T_CONST) in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/paiement.php on line 38
+[03-Dec-2021 20:20:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/payer.php on line 14
+[21-Dec-2021 17:10:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/good.php on line 13
+[21-Dec-2021 17:12:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/good.php on line 12
+[27-Dec-2021 10:19:21 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/forgot.php on line 43
+[27-Dec-2021 10:56:35 UTC] PHP Warning:  Use of undefined constant _SESSION - assumed '_SESSION' (this will throw an Error in a future version of PHP) in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/code.php on line 3
+[27-Dec-2021 10:56:35 UTC] PHP Warning:  Illegal string offset 'email' in /home/u648457710/domains/stevanmultiservices.com/public_html/stevan-educ/code.php on line 3
